@@ -22,7 +22,7 @@ class FilterManager {
     let filterNames = [
         "CIComicEffect",
         "CISepiaTone",
-        "CICMYHalftone",
+        "CICMYKHalftone",
         "CICrystallize",
         "CIVignette",
         "CIPhotoEffectNoir",
